@@ -1,0 +1,17 @@
+{
+	"name": "에그게임즈",
+	"short_name": "에그게임즈",
+	"description": "에그게임즈에 오신 것을 환영합니다.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#fff700"
+}
